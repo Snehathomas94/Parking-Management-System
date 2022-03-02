@@ -4,7 +4,7 @@
   "description": "Mongo/Mongoose-ExpressJS-NodeJS (MEN) REST API",
   "main": "server.js",
   "scripts": {
-    "start-dev": "cross-env NODE_ENV=development nodemon server.js",
+    "start-dev": "nodemon server.js",
     "test": "cross-env NODE_ENV=test mocha --recursive --exit"
   },
   "engines": {
