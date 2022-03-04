@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                   COMMAND                  CREATED          STATUS          PORTS                                                 NAMES
+61238d5ec471   docker-parking-api      "docker-entrypoint.s…"   24 seconds ago   Up 23 seconds   0.0.0.0:8000->4000/tcp, :::8000->4000/tcp             priceless_rosalind
