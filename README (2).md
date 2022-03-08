@@ -11,17 +11,6 @@ Front end : HTML and CSS
 Documentation : Swagger API
 Testing : Postman API 
 
-
-
-
-
-
-
-
-
-
-
-
 ## DEPLOYEMNT
 
 To start the server 
